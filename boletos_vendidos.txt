@@ -1,0 +1,12 @@
+Enrique|Panama|1|Bancomer|VPNAR|Oro|400|141
+Katia|Damian|2|Banamex|GOPXL|Basica|100|0
+Ludimila|Carmona|3|Banorte|GFRAO|Oro|400|283
+Katia Ramos|Damian Carmona|2|Banamex|BJUZY|Oro|400|201
+Kikecito|Nose pormil|70|Tu corazon|CTMKL|Oro|400|0
+Valeria Campos|Salvador Nava|13|Azteca|PLXYV|Premium|250|317
+Silvana Rosales|Urbano|176|Santander|YCAIZ|Basica|100|0
+Alexis Joram|Tangamanga|800|Banorte|NDUVO|Oro|400|178
+Gaby|Azafran|73|Bancomer|YCSZX|Oro|400|167
+Mishi|Pan|3|Patitas |AUMLQ|Oro|400|154
+Lian|Bollitos|6|Estrellitas|NSHCT|Basica|100|0
+Daniel|La amargura|5|Bienestar|DCVYL|Oro|400|237
